@@ -2,3 +2,4 @@ chleb	5,50
 jajka	1,50
 masło	8,50
 olej	8,50
+olej2	8,50
